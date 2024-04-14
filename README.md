@@ -1,8 +1,8 @@
-# MoLE: Mixture of LoRA Experts
+# Mixture of LoRA Experts
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://openreview.net/pdf?id=uWvKBCYh4S)
 
 
-Official implementation of "**MoLE: Mixture of LoRA Experts**"
+Official implementation of "**Mixture of LoRA Experts**"
 
  [Xun Wu](https://yushuiwx.github.io/), [Shaohan Huang](https://buaahsh.github.io/)<sup>$+$</sup>, [Furu Wei](https://thegenerality.com/)
 
